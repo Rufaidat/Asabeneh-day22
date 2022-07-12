@@ -2,7 +2,6 @@ const header = document.querySelector("header");
 header.style.textAlign = "center";
 header.style.marginTop = "2rem";
 const h3 = document.querySelector("h3");
-h3.style.textDecoration = "underline";
 h3.style.marginTop = "-1rem";
 const p = document.querySelector("p");
 p.style.textDecoration = "underline";
